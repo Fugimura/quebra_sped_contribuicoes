@@ -22,7 +22,9 @@ $ pip install -r requirements.txt
 
 ## Instrução <a name="instruction"></a>
 
-Execute a instrução abaixo no diretório app do projeto:
+1. Insira os arquivos SPEDs a serem quebrados na pasta data > input
+
+2. Execute a instrução abaixo no diretório app do projeto:
 
 ```
 python app.py
@@ -31,7 +33,7 @@ python app.py
 
 ## Motivação do Projeto<a name="motivation"></a>
 
-Esse projeto tem o intuito de exemplificar a utilidade da linguagem python na rotina fiscal. Para isso, foi utilizado o SPED Contribuições e a quebra do bloco M100 e 0000.
+Esse projeto tem o intuito de exemplificar a utilidade da linguagem python na rotina fiscal. Para isso, foi utilizado o SPED Contribuições para quebrar os blocos F100 e 0000.
 
 
 ## Estrutura dos arquivos <a name="files"></a>
@@ -50,7 +52,7 @@ Esse projeto tem o intuito de exemplificar a utilidade da linguagem python na ro
 
 ## Resultados<a name="results"></a>
 
-As principais conclusões do código podem ser encontradas no post disponível [aqui] (https://matheusvclls.medium.com/things-you-need-to-know-before-travelling-to-buenos-aires-on-airbnb -48cd77b554dd).
+As principais conclusões do código podem ser encontradas no post disponível [aqui] (https://fugimura.medium.com/quebra-de-speds-com-python-79d9648b3772).
 
 
 ## Licença, Autores e Agradecimentos<a name="licensing"></a>
